@@ -30,7 +30,10 @@ void PrintArray(int[] array)//пишет функцию (массив), напи
     }
     System.Console.WriteLine();//перевод курсора на след строку
 }
-int InputInt(string message)
-{
-    System.Console.WriteLine("Не нашли");
-}
+
+
+
+// int InputInt(string message)
+// {
+//     System.Console.WriteLine("Не нашли");
+// }
